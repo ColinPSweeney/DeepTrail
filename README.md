@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains the code, models, and configuration files for the paper titled **"Mapping Trails and Tracks in the Boreal Forest using LiDAR and Convolutional Neural Networks"**. The goal is to automatically detect and map trails using high-resolution **LiDAR-derived DTMs** and **U-Net CNNs**, validated through visual inspection and field surveys.
+This code also is being modified by the Ecohydrology Lab group (in Progress- April 2026)
 
 ### Background
 Trails are physical signs of movement left by animals or humans and are important for studying wildlife behavior and human impact on natural environments. These trails can vary in permanence, influenced by factors such as terrain and frequency of use. Traditional wildlife tracking methods include GNSS, camera traps, and genetic analysis, but these methods can be enhanced with detailed spatial data on trail locations.
